@@ -1,6 +1,6 @@
 ## CALCULADORA DE EXPRESIONES MATEMÁTICAS - GRUPO 1
 
----
+---------
 
 ## Criterios de Aceptación
 2 + 3 * 4 → 14 ✅
