@@ -78,4 +78,4 @@ public class Calculadora {
         if (operador == '*' || operador == '/') return 2;
         return 0;
     }
-}
+} 
