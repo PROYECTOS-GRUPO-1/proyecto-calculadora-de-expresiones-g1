@@ -27,5 +27,5 @@ Subir evidencias a GitHub: commits limpios, pull requests, co-authors.
 | **Jordan Rojas**     | Developer     |
 | **Jhonson Palomino** | Developer     |
 | **Alee Sayes**       | Developer     |
-
+| **Renzo Villodas**   | Developer     |
 -------------------------------------------------------------
