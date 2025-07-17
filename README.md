@@ -5,8 +5,7 @@
 ## Criterios de Aceptación
 2 + 3 * 4 → 14 ✅
 (2 + 3) * 4 → 20 ✅
-Si la expresión es inválida, debe devolver un error controlado. ✅
-
+Si la expresión es inválida debe devolver un error controlado. ✅
 ---
 
 ## Tareas del equipo
@@ -29,4 +28,3 @@ Subir evidencias a GitHub: commits limpios, pull requests, co-authors.
 | **Alee Sayes**       | Developer     |
 | **Renzo Villodas**   | Developer     |
 -------------------------------------------------------------
- 
