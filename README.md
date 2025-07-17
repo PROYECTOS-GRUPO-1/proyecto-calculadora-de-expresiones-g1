@@ -15,7 +15,6 @@ Agregar soporte para paréntesis.
 Aplicar TDD: test → código → test verde → refactor.
 Realizar Pair Programming en funciones complejas.
 Subir evidencias a GitHub: commits limpios, pull requests, co-authors.
-
 ---
 
 ## Roles del Equipo
