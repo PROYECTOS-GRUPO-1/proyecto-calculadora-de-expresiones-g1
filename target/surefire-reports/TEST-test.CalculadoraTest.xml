@@ -59,4 +59,4 @@
   <testcase name="testOperacionSimple" classname="test.CalculadoraTest" time="0.059"/>
   <testcase name="testExpresionInvalida" classname="test.CalculadoraTest" time="0.005"/>
   <testcase name="testConParentesis" classname="test.CalculadoraTest" time="0.002"/>
-</testsuite> 
+</testsuite>  
